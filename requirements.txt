@@ -1,0 +1,6 @@
+opencv-python
+CMake
+numpy
+dlib
+requests
+pillow
